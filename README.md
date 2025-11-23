@@ -13,10 +13,10 @@ The analysis progresses over six weeks of modeling experiments, each introducing
 ├── Beer_Tim_Week_5.ipynb        # Week 5 – Support Vector Regression (Linear vs. RBF)  
 ├── Beer_Tim_Week_6.ipynb        # Week 6 – Decision Tree and Random Forest Models  
 │
-├── Beer_Tim_Week_8.ipynb   # Week 8 – K-Nearest Neighbors (baseline + tuning)
-├── Beer_Tim_Week_9.ipynb   # Week 9 – Gradient Boosting (baseline + full tuning)
-├── Beer_Tim_Week_10.ipynb  # Week 10 – Clustering Part I (DBSCAN + K-means structure tests)
-├── Beer_Tim_Week_11.ipynb  # Week 11 – Clustering Part II (DBSCAN refinement + HAC + dendrograms)
+├── Beer_Tim_Week_8.ipynb        # Week 8 – K-Nearest Neighbors (baseline + tuning)
+├── Beer_Tim_Week_9.ipynb        # Week 9 – Gradient Boosting (baseline + full tuning)
+├── Beer_Tim_Week_10.ipynb       # Week 10 – Clustering Part I (DBSCAN + K-means structure tests)
+├── Beer_Tim_Week_11.ipynb       # Week 11 – Clustering Part II (DBSCAN refinement + HAC + dendrograms)
 
 
 ├── fredmd_clean.csv             # Cleaned macroeconomic dataset (1959–2025 sample)  
